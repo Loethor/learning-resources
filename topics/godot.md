@@ -28,5 +28,6 @@ For curated Godot video tutorials and channels, see the [Godot Videos Section](v
 - [Add Multiplayer to your Godot Game!](https://www.youtube.com/watch?v=V4a_J38XdHk) - Step-by-step guide to implementing multiplayer features in Godot.
 - [Complete Game Walkthrough](https://www.youtube.com/watch?v=tWLZNCJISYU) - Course covering basic Godot multiplayer principles and functionalities, with a step-by-step tutorial for building a basic 1v1 multiplayer game.
 - [HeartBeast's Godot Tutorials](https://www.youtube.com/c/HeartBeast) - YouTube channel with a variety of Godot tutorials, including game development basics and advanced techniques.
+- [Project Architecture and Modularity](https://www.youtube.com/watch?v=xtR-UhfwPpI) - Explains good practices about how to organize your classes and objects. Elegant solutions while we don't have traits.
 
 Feel free to add more resources or update existing ones as you discover new content!
