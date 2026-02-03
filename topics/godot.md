@@ -22,7 +22,6 @@
 
 
 ## Videos
-For curated Godot video tutorials and channels, see the [Godot Videos Section](videos.md#godot).
 
 - [Saving and Loading Games with Godot](https://www.youtube.com/watch?v=43BZsLZheA4) - Tutorial on saving and loading game data in Godot.
 - [Add Multiplayer to your Godot Game!](https://www.youtube.com/watch?v=V4a_J38XdHk) - Step-by-step guide to implementing multiplayer features in Godot.
@@ -31,3 +30,7 @@ For curated Godot video tutorials and channels, see the [Godot Videos Section](v
 - [Project Architecture and Modularity](https://www.youtube.com/watch?v=xtR-UhfwPpI) - Explains good practices about how to organize your classes and objects. Elegant solutions while we don't have traits.
 
 Feel free to add more resources or update existing ones as you discover new content!
+
+## General gamedev (not necessary Godot)
+
+- [Engagement vs appeal](https://www.youtube.com/watch?v=rTxKsBclbxk) - A game should do two things.
