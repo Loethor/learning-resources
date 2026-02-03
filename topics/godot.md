@@ -33,4 +33,4 @@ Feel free to add more resources or update existing ones as you discover new cont
 
 ## General gamedev (not necessary Godot)
 
-- [Engagement vs appeal](https://www.youtube.com/watch?v=rTxKsBclbxk) - A game should do two things.
+- [Engagement vs appeal](https://www.youtube.com/watch?v=rTxKsBclbxk) - A game should do two things. The power of "but". You need to decided on each step what is the best decision.
